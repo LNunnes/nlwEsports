@@ -1,2 +1,2 @@
-# nlwEsports
+# nlwEsports Explorer
  Projeto da Rocketseat
